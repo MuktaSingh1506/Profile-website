@@ -29,6 +29,9 @@ p{
 a {
     color: #11999E;
 }
+a:hover {
+  color: #EAF6F6;
+}
 #programmer{
     margin-top: 0;
     font-weight: bold;
